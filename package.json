@@ -1,7 +1,24 @@
 {
   "name": "create-react-app",
   "version": "0.1.0",
-  "private": true,
+  "description": "Personal Create React App",
+  "keywords": [
+    "react",
+    "template",
+    "create-react-app",
+    "typescript",
+    "new-project",
+    "new-repo"
+  ],
+  "bugs": {
+    "url": "https://github.com/navin-moorthy/create-react-app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navin-moorthy/create-react-app.git"
+  },
+  "license": "MIT",
+  "author": "Navin Moorthy <navin007.a@gmail.com>",
   "scripts": {
     "postinstall": "husky install",
     "start": "react-scripts start",

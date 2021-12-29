@@ -1,3 +1,10 @@
+### [1.0.1](https://github.com/navin-moorthy/create-react-app/compare/1.0.0...1.0.1) (2021-12-29)
+
+
+### Maintanance Updates
+
+* **gitignore:** 🙈 add build folder ([6f33c32](https://github.com/navin-moorthy/create-react-app/commit/6f33c32cb56cb698c27182a29e8ee41284044651))
+
 ## 1.0.0 (2021-12-29)
 
 

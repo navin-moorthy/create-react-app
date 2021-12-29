@@ -1,3 +1,11 @@
+## [1.1.0](https://github.com/navin-moorthy/create-react-app/compare/1.0.1...1.1.0) (2021-12-29)
+
+
+### Maintanance Updates
+
+* **license:** 📄 add license and package details ([9c352a4](https://github.com/navin-moorthy/create-react-app/commit/9c352a4ccfe393787324b9672b1d4fadb53d584d))
+* **version:** 🔖 update package version ([d233d6a](https://github.com/navin-moorthy/create-react-app/commit/d233d6a23d53b11ad9b5d7ae72f0077bf509bc9e))
+
 ### [1.0.1](https://github.com/navin-moorthy/create-react-app/compare/1.0.0...1.0.1) (2021-12-29)
 
 

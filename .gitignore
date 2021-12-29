@@ -48,3 +48,4 @@ jspm_packages
 .yarn-integrity # Yarn Integrity file
 
 ## library folder
+build

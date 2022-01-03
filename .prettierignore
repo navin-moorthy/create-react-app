@@ -52,5 +52,5 @@ package-lock.json
 yarn.lock
 
 # Library files
-dist
+build
 CHANGELOG.md
